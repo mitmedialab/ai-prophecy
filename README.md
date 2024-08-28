@@ -38,7 +38,7 @@ See paper: https://www.arxiv.org/abs/2408.06602
 
 ### Prototype
 
-- **Experiment**: Implementation of the assessments, simulated investment game, and prophecies.
+- **Experiment**: Implementation of the web app including assessments, simulated investment game, and prophecies.
 
 ### Supplementary
 - **Survey**: Survey materials and questionnaires used in the study. 
