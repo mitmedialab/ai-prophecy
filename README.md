@@ -38,7 +38,7 @@ See paper: https://www.arxiv.org/abs/2408.06602
 
 ### Prototype
 
-- **Web Application**: Implementation of assessments, simulated investment game, and prophecies.
+- **Web Application**: Implementation of assessments, simulated investment game, and prophecy generation.
 
 ### Supplementary
 - **Survey**: Survey materials and questionnaires used in the study. 
